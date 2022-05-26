@@ -4,7 +4,8 @@
 
 ![ttm](https://user-images.githubusercontent.com/75195784/170401160-017684b7-674e-43e0-b3f4-5dcb0ee65a27.png)
 
-![sjyk](https://user-images.githubusercontent.com/75195784/170401154-e98a207e-abd9-4edf-8908-167363fc1b1d.png)
+![sjyk](https://user-images.githubusercontent.com/75195784/170401257-e04aec82-8148-4595-b1a7-b7d98b3d5417.png)
+
 
 ## 跳跳马辅助
 
